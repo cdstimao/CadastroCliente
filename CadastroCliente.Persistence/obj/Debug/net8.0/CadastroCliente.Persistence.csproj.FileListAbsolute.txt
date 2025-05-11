@@ -1,0 +1,14 @@
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\bin\Debug\net8.0\CadastroCliente.Persistence.deps.json
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\bin\Debug\net8.0\CadastroCliente.Persistence.runtimeconfig.json
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\bin\Debug\net8.0\CadastroCliente.Persistence.dll
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\bin\Debug\net8.0\CadastroCliente.Persistence.pdb
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.csproj.AssemblyReference.cache
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.AssemblyInfoInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.AssemblyInfo.cs
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.csproj.CoreCompileInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.dll
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\refint\CadastroCliente.Persistence.dll
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.pdb
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\CadastroCliente.Persistence.genruntimeconfig.cache
+D:\GIT\CadastroCliente\CadastroCliente.Persistence\obj\Debug\net8.0\ref\CadastroCliente.Persistence.dll

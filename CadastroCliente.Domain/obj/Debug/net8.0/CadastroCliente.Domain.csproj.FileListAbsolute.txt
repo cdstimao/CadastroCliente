@@ -1,0 +1,11 @@
+D:\GIT\CadastroCliente\CadastroCliente.Domain\bin\Debug\net8.0\CadastroCliente.Domain.deps.json
+D:\GIT\CadastroCliente\CadastroCliente.Domain\bin\Debug\net8.0\CadastroCliente.Domain.dll
+D:\GIT\CadastroCliente\CadastroCliente.Domain\bin\Debug\net8.0\CadastroCliente.Domain.pdb
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.AssemblyInfoInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.AssemblyInfo.cs
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.csproj.CoreCompileInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.dll
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\refint\CadastroCliente.Domain.dll
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.pdb
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\ref\CadastroCliente.Domain.dll

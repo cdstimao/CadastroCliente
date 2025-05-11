@@ -1,0 +1,86 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroCliente.API", "CadastroCliente.API\CadastroCliente.API.csproj", "{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroCliente.Domain", "CadastroCliente.Domain\CadastroCliente.Domain.csproj", "{237E8D33-B80C-421F-9949-F94A5F0B25E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroCliente.Application", "CadastroCliente.Application\CadastroCliente.Application.csproj", "{7729F975-802F-42B4-BE85-6A925C54BC92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroCliente.Infrastructure", "CadastroCliente.Infrastructure\CadastroCliente.Infrastructure.csproj", "{29EF13F7-B592-4F3D-8D40-ED6F538379C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroCliente.Persistence", "CadastroCliente.Persistence\CadastroCliente.Persistence.csproj", "{46102A4B-1873-42F0-9E2F-73D1BAED68F9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CadastroCliente.Tests", "CadastroCliente.Tests\CadastroCliente.Tests.csproj", "{58826705-E7B2-4C27-A710-DBDD20B7BE54}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "cadastro-clientes", "cadastro-clientes\", "{7989A067-FD01-489B-A43E-A224624E4C44}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_65522"
+		Debug.AspNetCompiler.PhysicalPath = "cadastro-clientes\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65522\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_65522"
+		Release.AspNetCompiler.PhysicalPath = "cadastro-clientes\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_65522\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "65522"
+		SlnRelativePath = "cadastro-clientes\"
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{5D5C5AA9-F155-4535-9EE2-35871A31B9EC}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+		Dockerfile = Dockerfile
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237E8D33-B80C-421F-9949-F94A5F0B25E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237E8D33-B80C-421F-9949-F94A5F0B25E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237E8D33-B80C-421F-9949-F94A5F0B25E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237E8D33-B80C-421F-9949-F94A5F0B25E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7729F975-802F-42B4-BE85-6A925C54BC92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7729F975-802F-42B4-BE85-6A925C54BC92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7729F975-802F-42B4-BE85-6A925C54BC92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7729F975-802F-42B4-BE85-6A925C54BC92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29EF13F7-B592-4F3D-8D40-ED6F538379C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29EF13F7-B592-4F3D-8D40-ED6F538379C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29EF13F7-B592-4F3D-8D40-ED6F538379C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29EF13F7-B592-4F3D-8D40-ED6F538379C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46102A4B-1873-42F0-9E2F-73D1BAED68F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46102A4B-1873-42F0-9E2F-73D1BAED68F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46102A4B-1873-42F0-9E2F-73D1BAED68F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46102A4B-1873-42F0-9E2F-73D1BAED68F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58826705-E7B2-4C27-A710-DBDD20B7BE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58826705-E7B2-4C27-A710-DBDD20B7BE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58826705-E7B2-4C27-A710-DBDD20B7BE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58826705-E7B2-4C27-A710-DBDD20B7BE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7989A067-FD01-489B-A43E-A224624E4C44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7989A067-FD01-489B-A43E-A224624E4C44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7989A067-FD01-489B-A43E-A224624E4C44}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7989A067-FD01-489B-A43E-A224624E4C44}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCDA49B4-7815-4794-9547-5B56E41F7D20}
+	EndGlobalSection
+EndGlobal

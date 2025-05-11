@@ -1,0 +1,15 @@
+D:\GIT\CadastroCliente\CadastroCliente.Application\bin\Debug\net8.0\CadastroCliente.Application.deps.json
+D:\GIT\CadastroCliente\CadastroCliente.Application\bin\Debug\net8.0\CadastroCliente.Application.dll
+D:\GIT\CadastroCliente\CadastroCliente.Application\bin\Debug\net8.0\CadastroCliente.Application.pdb
+D:\GIT\CadastroCliente\CadastroCliente.Application\bin\Debug\net8.0\CadastroCliente.Domain.dll
+D:\GIT\CadastroCliente\CadastroCliente.Application\bin\Debug\net8.0\CadastroCliente.Domain.pdb
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.csproj.AssemblyReference.cache
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.AssemblyInfoInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.AssemblyInfo.cs
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.csproj.CoreCompileInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\Cadastro.602E5B14.Up2Date
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.dll
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\refint\CadastroCliente.Application.dll
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.pdb
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\ref\CadastroCliente.Application.dll
