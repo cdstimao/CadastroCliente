@@ -162,6 +162,7 @@ D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\CadastroCliente.API.
 D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\CadastroCliente.API.csproj.CoreCompileInputs.cache
 D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\CadastroCliente.API.MvcApplicationPartsAssemblyInfo.cs
 D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\CadastroCliente.API.MvcApplicationPartsAssemblyInfo.cache
+D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\CadastroCliente.API.sourcelink.json
 D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\GIT\CadastroCliente\CadastroCliente.API\obj\Debug\net8.0\staticwebassets\msbuild.CadastroCliente.API.Microsoft.AspNetCore.StaticWebAssets.props

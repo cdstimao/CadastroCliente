@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroCliente.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bee38b403430cf7afdd156db0dc581e22bfe35fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroCliente.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroCliente.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

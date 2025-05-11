@@ -5,6 +5,7 @@ D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.D
 D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.AssemblyInfoInputs.cache
 D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.AssemblyInfo.cs
 D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.csproj.CoreCompileInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.sourcelink.json
 D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.dll
 D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\refint\CadastroCliente.Domain.dll
 D:\GIT\CadastroCliente\CadastroCliente.Domain\obj\Debug\net8.0\CadastroCliente.Domain.pdb
