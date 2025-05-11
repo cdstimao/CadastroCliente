@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\GIT\\CadastroCliente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|d:\\git\\cadastrocliente\\cadastrocliente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|solutionrelative:cadastrocliente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|d:\\git\\cadastrocliente\\cadastrocliente.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|solutionrelative:cadastrocliente.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|d:\\git\\cadastrocliente\\cadastrocliente.application\\handler\\createclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|solutionrelative:cadastrocliente.application\\handler\\createclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{237E8D33-B80C-421F-9949-F94A5F0B25E6}|CadastroCliente.Domain\\CadastroCliente.Domain.csproj|d:\\git\\cadastrocliente\\cadastrocliente.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{237E8D33-B80C-421F-9949-F94A5F0B25E6}|CadastroCliente.Domain\\CadastroCliente.Domain.csproj|solutionrelative:cadastrocliente.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|d:\\git\\cadastrocliente\\cadastrocliente.api\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|solutionrelative:cadastrocliente.api\\controller\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|d:\\git\\cadastrocliente\\cadastrocliente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89EA3914-1FBA-4F94-B81A-BD9C44C4A573}|CadastroCliente.API\\CadastroCliente.API.csproj|solutionrelative:cadastrocliente.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|d:\\git\\cadastrocliente\\cadastrocliente.application\\handler\\deleteclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +43,12 @@
       "RelativeMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|solutionrelative:cadastrocliente.application\\comands\\deleteclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{237E8D33-B80C-421F-9949-F94A5F0B25E6}|CadastroCliente.Domain\\CadastroCliente.Domain.csproj|d:\\git\\cadastrocliente\\cadastrocliente.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{237E8D33-B80C-421F-9949-F94A5F0B25E6}|CadastroCliente.Domain\\CadastroCliente.Domain.csproj|solutionrelative:cadastrocliente.domain\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|d:\\git\\cadastrocliente\\cadastrocliente.application\\handler\\updateclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|solutionrelative:cadastrocliente.application\\handler\\updateclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|d:\\git\\cadastrocliente\\cadastrocliente.application\\comands\\updateclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|solutionrelative:cadastrocliente.application\\comands\\updateclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|d:\\git\\cadastrocliente\\cadastrocliente.application\\handler\\createclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|solutionrelative:cadastrocliente.application\\handler\\createclientecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7729F975-802F-42B4-BE85-6A925C54BC92}|CadastroCliente.Application\\CadastroCliente.Application.csproj|d:\\git\\cadastrocliente\\cadastrocliente.application\\comands\\createclientecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -122,27 +122,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:2:0:{7f40df72-066b-4810-a08b-c0fbed76c948}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\Program.cs",
               "RelativeDocumentMoniker": "CadastroCliente.API\\Program.cs",
               "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\Program.cs",
               "RelativeToolTip": "CadastroCliente.API\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAADwvxUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvxwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T21:57:36.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "cliente.model.ts",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\cadastro-clientes\\src\\app\\models\\cliente.model.ts",
+              "RelativeDocumentMoniker": "cadastro-clientes\\src\\app\\models\\cliente.model.ts",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\cadastro-clientes\\src\\app\\models\\cliente.model.ts",
+              "RelativeToolTip": "cadastro-clientes\\src\\app\\models\\cliente.model.ts",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-05-09T11:46:21.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\Controller\\ClientesController.cs",
+              "RelativeDocumentMoniker": "CadastroCliente.API\\Controller\\ClientesController.cs",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\Controller\\ClientesController.cs",
+              "RelativeToolTip": "CadastroCliente.API\\Controller\\ClientesController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:33:00.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateClienteCommandHandler.cs",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
+              "RelativeToolTip": "CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T01:31:56.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Domain\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "CadastroCliente.Domain\\Entities\\Cliente.cs",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Domain\\Entities\\Cliente.cs",
+              "RelativeToolTip": "CadastroCliente.Domain\\Entities\\Cliente.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAzwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:05:04.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CadastroCliente.API\\appsettings.json",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\appsettings.json",
+              "RelativeToolTip": "CadastroCliente.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T21:59:53.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:51:08.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "RelativeToolTip": "CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T21:55:16.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateClienteCommandHandler.cs",
+              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
+              "RelativeDocumentMoniker": "CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
+              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
+              "RelativeToolTip": "CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAD4vygAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:19:32.86Z",
               "EditorCaption": ""
             },
             {
@@ -159,91 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "cliente.model.ts",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\cadastro-clientes\\src\\app\\models\\cliente.model.ts",
-              "RelativeDocumentMoniker": "cadastro-clientes\\src\\app\\models\\cliente.model.ts",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\cadastro-clientes\\src\\app\\models\\cliente.model.ts",
-              "RelativeToolTip": "cadastro-clientes\\src\\app\\models\\cliente.model.ts",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-05-09T11:46:21.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\Controller\\ClientesController.cs",
-              "RelativeDocumentMoniker": "CadastroCliente.API\\Controller\\ClientesController.cs",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\Controller\\ClientesController.cs",
-              "RelativeToolTip": "CadastroCliente.API\\Controller\\ClientesController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAkwDYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:33:00.367Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "UpdateClienteCommandHandler.cs",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
-              "RelativeDocumentMoniker": "CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
-              "RelativeToolTip": "CadastroCliente.Application\\Handler\\UpdateClienteCommandHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T01:31:56.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Domain\\Entities\\Cliente.cs",
-              "RelativeDocumentMoniker": "CadastroCliente.Domain\\Entities\\Cliente.cs",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Domain\\Entities\\Cliente.cs",
-              "RelativeToolTip": "CadastroCliente.Domain\\Entities\\Cliente.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAAwEwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:05:04.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CadastroCliente.API\\appsettings.json",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.API\\appsettings.json",
-              "RelativeToolTip": "CadastroCliente.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-08T21:59:53.498Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "CadastroCliente.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T21:51:08.903Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
-              "RelativeToolTip": "CadastroCliente.Infrastructure\\Extensions\\DependencyInjection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T21:55:16.471Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Infrastructure\\Repository\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "CadastroCliente.Infrastructure\\Repository\\ClienteRepository.cs",
@@ -255,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DeleteClienteCommand.cs",
               "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Comands\\DeleteClienteCommand.cs",
               "RelativeDocumentMoniker": "CadastroCliente.Application\\Comands\\DeleteClienteCommand.cs",
@@ -267,7 +275,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "DeleteClienteCommandHandler.cs",
               "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\DeleteClienteCommandHandler.cs",
               "RelativeDocumentMoniker": "CadastroCliente.Application\\Handler\\DeleteClienteCommandHandler.cs",
@@ -279,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UpdateClienteCommand.cs",
               "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Comands\\UpdateClienteCommand.cs",
               "RelativeDocumentMoniker": "CadastroCliente.Application\\Comands\\UpdateClienteCommand.cs",
@@ -312,18 +320,6 @@
               "ViewState": "AgIAABgAAAAAAAAAAADwvy0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-09T01:21:03.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateClienteCommandHandler.cs",
-              "DocumentMoniker": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
-              "RelativeDocumentMoniker": "CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
-              "ToolTip": "D:\\GIT\\CadastroCliente\\CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
-              "RelativeToolTip": "CadastroCliente.Application\\Handler\\CreateClienteCommandHandler.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T19:19:32.86Z"
             },
             {
               "$type": "Document",
@@ -443,7 +439,8 @@
               "RelativeToolTip": "CadastroCliente.Tests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T23:38:37.488Z"
+              "WhenOpened": "2025-05-08T23:38:37.488Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
