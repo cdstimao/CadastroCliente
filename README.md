@@ -49,5 +49,4 @@ Este é um sistema completo de cadastro de clientes desenvolvido com **Angular**
 
 ```bash
 git clone https://github.com/cdstimao/CadastroCliente.git
-cd cadastro-clientes
-
+cd cadastro-clienten
