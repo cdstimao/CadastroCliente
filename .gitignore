@@ -1,0 +1,67 @@
+## Ignore arquivos temporários do Visual Studio ##
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore pastas de build ##
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+[Tt]emp/
+
+## Ignore arquivos do NuGet ##
+*.nupkg
+*.snupkg
+*.nuspec
+project.lock.json
+project.fragment.lock.json
+*.nuget.props
+*.nuget.targets
+*.nuget.cache
+*.dgspec.json
+
+## Ignore arquivos de dependência do MSBuild ##
+*.cache
+*.msbuild
+*.tlog
+
+## Ignore arquivos gerados automaticamente ##
+*.generated.cs
+Generated_Code/
+GeneratedFiles/
+
+## Ignore configurações do Rider / JetBrains ##
+.idea/
+*.sln.iml
+
+## Ignore arquivos de debug ##
+*.pdb
+*.mdb
+
+## Ignore arquivos do Teste ##
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Ignore arquivos de log ##
+*.log
+
+## Ignore arquivos do Docker ##
+docker-compose.override.yml
+.env
+Dockerfile.*
+
+## Ignore configurações locais ##
+launchSettings.json
+
+## Ignore o Visual Studio Code ##
+.vscode/
+
+## Ignore o sistema operacional ##
+Thumbs.db
+.DS_Store
+desktop.ini
