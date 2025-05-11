@@ -156,6 +156,7 @@ D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\CadastroCliente.Te
 D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\CadastroCliente.Tests.AssemblyInfoInputs.cache
 D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\CadastroCliente.Tests.AssemblyInfo.cs
 D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\CadastroCliente.Tests.csproj.CoreCompileInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\CadastroCliente.Tests.sourcelink.json
 D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\Cadastro.339BF6AA.Up2Date
 D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\CadastroCliente.Tests.dll
 D:\GIT\CadastroCliente\CadastroCliente.Tests\obj\Debug\net8.0\refint\CadastroCliente.Tests.dll

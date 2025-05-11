@@ -8,6 +8,7 @@ D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroClie
 D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.AssemblyInfoInputs.cache
 D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.AssemblyInfo.cs
 D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.csproj.CoreCompileInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.sourcelink.json
 D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\Cadastro.602E5B14.Up2Date
 D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\CadastroCliente.Application.dll
 D:\GIT\CadastroCliente\CadastroCliente.Application\obj\Debug\net8.0\refint\CadastroCliente.Application.dll

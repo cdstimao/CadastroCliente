@@ -11,6 +11,7 @@ D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\CadastroC
 D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\CadastroCliente.Infrastructure.AssemblyInfoInputs.cache
 D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\CadastroCliente.Infrastructure.AssemblyInfo.cs
 D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\CadastroCliente.Infrastructure.csproj.CoreCompileInputs.cache
+D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\CadastroCliente.Infrastructure.sourcelink.json
 D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\Cadastro.AE727EEF.Up2Date
 D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\CadastroCliente.Infrastructure.dll
 D:\GIT\CadastroCliente\CadastroCliente.Infrastructure\obj\Debug\net8.0\refint\CadastroCliente.Infrastructure.dll
