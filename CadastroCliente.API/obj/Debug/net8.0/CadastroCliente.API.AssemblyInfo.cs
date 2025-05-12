@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("695597f1-276a-466e-9daa-598bee77f57b")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("CadastroCliente.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a218583fde589ca4a6c3e9e6f334491053aebb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6460de353c31a51b47d3da50ad70db8c17b9d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("CadastroCliente.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CadastroCliente.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
