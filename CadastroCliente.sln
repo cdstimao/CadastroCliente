@@ -36,6 +36,11 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "cadastro-clientes", "cadast
 		SlnRelativePath = "cadastro-clientes\"
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens de Solução", "Itens de Solução", "{B0691F8F-D468-4770-AC7E-E8D78A4996BE}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
